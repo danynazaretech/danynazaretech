@@ -28,10 +28,5 @@
   </div>
 
 
-<div align="center">
 
-
-![Snake animation]([https://github.com/danynazaretech/danynazaretech/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/danynazaretech/danynazaretech/7cb2757da0681e9aa524d5ea97f34bfb91327b33/github-contribution-grid-snake.svg)
-
-</div>
 
