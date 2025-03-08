@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-![Dany Nazaré](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
+![Dany Nazaré](https://github-readme-stats.vercel.app/api?username=danynazaretech&show_icons=true&theme=radical)
 
 </div>
 
