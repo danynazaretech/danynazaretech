@@ -1,8 +1,18 @@
+<img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
+
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Dany Nazaré.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+
+
+<div align='center'>
+
+![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
+
+</div>
+
 # Seja Bem Vindo!
 ## Aprecie o conteúdo
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
