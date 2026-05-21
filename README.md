@@ -3,11 +3,6 @@
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Dany_Nazaré.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 
-<div align='center'>
-
-![Dany Nazaré](https://github-readme-stats.vercel.app/api?username=danynazaretech&show_icons=true&theme=radical)
-
-</div>
 
 
 <div style="display: inline_block" align='center' ><br>
